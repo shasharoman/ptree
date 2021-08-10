@@ -1,5 +1,5 @@
 {
-    "name": "ptree",
+    "name": "@shasharoman/ptree",
     "version": "1.0.0",
     "description": "path tree",
     "main": "index.js",
