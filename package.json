@@ -1,6 +1,6 @@
 {
     "name": "@shasharoman/ptree",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "path tree",
     "main": "index.js",
     "directories": {
@@ -26,7 +26,7 @@
     "homepage": "https://github.com/shasharoman/ptree#readme",
     "dependencies": {
         "debug": "4.1.1",
-        "lodash": "4.17.19",
+        "lodash": "4.17.21",
         "treeify": "1.1.0"
     },
     "devDependencies": {
